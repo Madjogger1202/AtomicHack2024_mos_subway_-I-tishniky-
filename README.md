@@ -12,4 +12,6 @@
 В завершение получаем систему, что можно будет интегрировать куда угодно, а в частности в IoT решения :)
 
 Со всеми почестями - I-тишники
-![image](https://github.com/Madjogger1202/AtomicHack2024_mos_subway_-I-tishniky-/assets/61242548/247998df-62e9-4a06-b590-ef63b8f9b32b)
+
+![cat-black-cat](https://github.com/Madjogger1202/AtomicHack2024_mos_subway_-I-tishniky-/assets/61242548/1dcb9a02-460e-413d-a788-c71011379e6b)
+
